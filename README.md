@@ -1,6 +1,6 @@
-# QuickBite — End to End Food Delivery Data Pipeline
+# QuickBite - End to end food delivery data pipeline
 
-## Problem Statement
+## Problem statement
 
 QuickBite is a fictional food delivery platform operating across major Indian cities. Every day, thousands of orders are placed by customers ordering from restaurants and fulfilled by delivery agents. The raw order data lands as daily CSV files in a landing zone.
 
