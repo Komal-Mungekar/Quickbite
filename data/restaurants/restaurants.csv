@@ -1,0 +1,21 @@
+restaurant_id,name,city,cuisine_type,rating
+R001,Spice Garden,Mumbai,North Indian,4.2
+R002,The Tandoor House,Delhi,South Indian,3.0
+R003,Dragon Palace,Bangalore,Chinese,3.5
+R004,Pizza Roma,Hyderabad,Italian,3.4
+R005,Burger Barn,Pune,Fast Food,4.4
+R006,Biryani Blues,Chennai,Biryani,4.3
+R007,Sweet Treats,Kolkata,Desserts,4.7
+R008,Curry Leaf,Mumbai,Nort Indian,3.2
+R009,Wok & Roll,Delhi,Italain,3.8
+R010,Desi Dhaba,Bangalore,Chinesse,3.1
+R011,The Grill House,Hyderabad,Fast food,3.4
+R012,Noodle Nation,Pune,BIRYANI,4.0
+R013,Cafe Mocha,Chennai,North Indian,3.1
+R014,Mughal Mahal,Kolkata,South Indian,3.4
+R015,Fresh Bowl,Mumbai,Chinese,4.2
+R016,Street Spice,Delhi,Italian,4.0
+R017,The Wrap Co,Bangalore,Fast Food,3.4
+R018,South Bites,Hyderabad,Biryani,4.1
+R019,Masala Kitchen,Pune,Desserts,4.5
+R020,Choco Hub,Chennai,Nort Indian,3.0

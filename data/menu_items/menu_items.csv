@@ -1,0 +1,21 @@
+item_id,item_name,category,base_price
+M001,Butter Chicken,Main Course,388.47
+M002,Paneer Tikka,Starter,307.79
+M003,Fried Rice,Beverage,427.45
+M004,Margherita Pizza,Dessert,183.5
+M005,Veg Burger,Side Dish,335.4
+M006,Chicken Biryani,Main Course,160.39
+M007,Chocolate Cake,Starter,244.54
+M008,Dal Makhani,Beverage,167.36
+M009,Hakka Noodles,Dessert,214.19
+M010,Masala Dosa,Side Dish,442.94
+M011,Tandoori Chicken,Main Course,215.91
+M012,Pasta Arabiata,Starter,413.63
+M013,Cold Coffee,Beverage,318.59
+M014,Gulab Jamun,Dessert,102.4
+M015,Garlic Bread,Side Dish,182.08
+M016,Samosa,Main Course,438.24
+M017,Veg Wrap,Starter,431.13
+M018,Idli Sambar,Beverage,384.95
+M019,Egg Curry,Dessert,113.92
+M020,Brownie,Side Dish,158.48
